@@ -1,28 +1,23 @@
-## Bem-vindo(a) ao perfil Colecgame 😁
+# Olá! Eu sou o João Vagner Munhoz 👋
 
- <div>
-   <a href="https://github.com/Colecgame">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Colecgame&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colecgame&layout=compact&langs_count=6&theme=tokyonight"/>
+Sou apaixonado por Ciência de Dados e sempre busco resolver problemas reais com dados. Aqui você vai encontrar projetos que envolvem:
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Ainda em construção, logo atualizo as redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com/Colecgame" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/Colecgame" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jvsmunhoz@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jvsmunhoz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Colecgame/Colecgame/blob/output/github-contribution-grid-snake.svg)
+- 🔍 Análise Exploratória de Dados (EDA)
+- 🤖 Modelos de Machine Learning
+- 📊 Visualizações interativas
+- 🧹 Limpeza e tratamento de dados
+- 📦 Clusterização e segmentação de clientes
 
-</div>
+## 🚀 Tecnologias que uso
+- Python (pandas, scikit-learn, matplotlib, seaborn, etc)
+- SQL (PostgreSQL, MySQL)
+- Git, Jupyter, VS Code
+
+## 📈 Projetos em destaque
+- [Previsão de Resistência do Concreto](link)
+- [Segmentação de Clientes com RFM e KMeans](link)
+- [Análise de Vendas de E-commerce (2010-2011)](link)
+
+Vamos nos conectar?  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/joaovagnermunhoz)
+
