@@ -14,9 +14,8 @@ Sou apaixonado por Ciência de Dados e sempre busco resolver problemas reais com
 - Git, Jupyter, VS Code
 
 ## 📈 Projetos em destaque
-- [Previsão de Resistência do Concreto](link)
-- [Segmentação de Clientes com RFM e KMeans](link)
-- [Análise de Vendas de E-commerce (2010-2011)](link)
+- [Previsão de Resistência do Concreto](https://colab.research.google.com/drive/1Du5lE_WKmbrMCglsm34nc8w1a04DQBNL)
+- [Segmentação de Clientes com RFM e KMeans](https://colab.research.google.com/drive/1WvNtTPj982lI3eO4KNmxfrB_pUXhUYmW)
 
 Vamos nos conectar?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/joaovagnermunhoz)
